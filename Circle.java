@@ -12,7 +12,7 @@
 
 public class Circle {
 	private double radius;
-	private final double PI = 3.14159;
+	public final double PI = 3.14159;
 	
 	public Circle() {
 		radius = 0.0;
