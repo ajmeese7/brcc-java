@@ -8,16 +8,6 @@
  * They can input money, purchase from a finite
  * amount of drinks, and receive their change.
  * 
- * PLEASE NOTE: I spent a lot of time on this 
- * making it pretty and creative in an attempt
- * to earn bonus, but for the life of me I 
- * cannot figure out how to run an applet in 
- * the web browser. I followed the example PDF
- * EXACTLY and even that would not run for me, 
- * but I would really appreciate it if you could
- * explain why this isn't working for me and still
- * run my code in Eclipse to see how well it works.
- * 
  */
 
 import javax.swing.*;
